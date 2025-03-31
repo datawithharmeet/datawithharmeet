@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Universe!
 
-Hey there! I'm Harmeet Singh, an **experienced professional** with a versatile background in **business operations management and entrepreneurship**, specializing in **data-driven decision-making, process optimization, and strategic growth**. With a proven track record in leveraging analytics to drive profitability and operational efficiency, I am now transitioning into **Data Science and Business Intelligence** to apply my expertise in **data analysis, predictive modeling, and business strategy**.
+Hey there! I'm Harmeet Singh, an **experienced professional** with a versatile background in **business intelligence and entrepreneurship**, specializing in **data-driven decision-making, process optimization, and strategic growth**. With a proven track record in leveraging analytics to drive profitability and operational efficiency, I am now transitioning into **Data Science** to apply my expertise in **data analysis, predictive modeling, and business strategy**.
 
 ---
 
